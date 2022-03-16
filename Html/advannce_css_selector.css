@@ -1,0 +1,20 @@
+/*   *{
+      color: blue;    this is apply for all tags
+      }
+
+*/
+/*Descendent Selector*/
+
+/*    li a{
+      background: gray  ;
+      color: blue;
+     }
+
+*/
+
+/*Adjaceent Selector
+    for every ul tag Adjaceent a tag*/
+
+a+ul{
+  color: red;
+}

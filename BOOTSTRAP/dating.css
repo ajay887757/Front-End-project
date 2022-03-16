@@ -1,0 +1,35 @@
+#center{
+    text-align: center;
+    padding-top: 25%;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1634724685608-7da8172b2e91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+#tc{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 5em;
+
+}
+#tc1{
+    color: rgb(28, 194, 206);
+}
+html{
+    height: 100%;
+}
+hr{
+    width: 550px;
+}
+#bg{
+    background: orange;
+    border: 0px solid rgb(25, 175, 63);
+}
+nav .navbar-nav a{
+    color: white !important;
+    }
+
+.navbar .navbar-header a{
+    color: rgb(255, 255, 255);

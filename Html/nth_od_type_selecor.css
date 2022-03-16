@@ -1,0 +1,13 @@
+/*li:nth-of-type(2){
+  color: red;
+}
+*/
+
+ /* ul:nth-of-type(2){
+  color: red;
+}
+*/
+
+li:nth-of-type(even){
+  color: red;
+}

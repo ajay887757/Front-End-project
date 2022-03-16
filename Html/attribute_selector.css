@@ -1,0 +1,24 @@
+a[href]{
+  color: red;
+  background: yellow;
+}
+
+input[type]{
+  color: orange;
+  background: blue;
+
+}
+
+input[type="password"]{
+  color: gray;
+  background: orange;
+
+}
+/*
+
+a[href="https://www.flipkart.com/"]{
+  color: red;
+  background: yellow;
+}
+
+*/

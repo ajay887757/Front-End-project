@@ -1,0 +1,29 @@
+#top{
+  border:red solid 50px;
+  /* border-top: 100px solid red;
+  border-bottom: 50px solid blue;
+  border-left: 25px solid black;
+  border-right: 10px solid green; */
+  width: 25%;
+  text-align: center;
+  /* Every side same */
+  padding: 50px;
+    /* top  right bttom left
+  padding: 100px 200px 300px 400px ; */
+
+   /* top/bottom  right/left
+padding: 100px 200px ; */
+  /* padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 100px; */
+  margin-top: 50px;
+  margin-left: 100px;
+}
+#bottom{
+  border: green 30px solid;
+  text-align: center;
+  width: 25%;
+  padding: 50px;
+  margin-left: 200px;
+}

@@ -1,0 +1,29 @@
+/*h1{
+  color: rgb(49, 30, 158,0.5);
+}*/
+
+/*h1{
+  color: #311e9e;
+}*/
+
+/*body{
+  background: red;
+  color: white;
+}
+*/
+img{
+/*  border-color: blue;
+  border-width: 20px;
+  border-style: groove;
+
+/* shortchut8*/
+
+border: red  40px solid;
+}
+
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkjwDz224D355ULYXF8dEYhx-L2-aMz-cdYg&usqp=CAU);
+  background-repeat:no-repeat;
+  background-size: cover;
+  color: blue;
+}

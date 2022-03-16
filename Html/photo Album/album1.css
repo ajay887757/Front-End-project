@@ -1,0 +1,14 @@
+img{
+  height: 300px;
+  width: 30%;
+  margin: 1.66%;
+  float: left;
+}
+
+p{
+  text-align:center;
+  font-size: 25px;
+  font-weight: 800px;
+  border-bottom: 2px solid gray;
+  padding-bottom: 30px;
+}
